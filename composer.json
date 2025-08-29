@@ -1,0 +1,10 @@
+{
+    "type": "project",
+    "license": "Unlicense",
+    "require-dev": {
+        "rector/rector": "^2.1"
+    },
+    "require": {
+        "php": "^8.4"
+    }
+}
